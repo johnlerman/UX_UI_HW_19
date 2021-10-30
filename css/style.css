@@ -172,8 +172,10 @@ li {
 }
 
 footer {
+    display: flex;
     background-color: #373738;
     text-align: center;
+    justify-content: space-around;
 }
 
 .footerList {
